@@ -25,7 +25,8 @@ scrapped from this official site and stored in a Comma Separated Values (CSV).
 # RESULTS
 
 We used different machine learning algorithms to find the best combination that gives
-the most accuracy. We used five ML calculations: Decision Trees, Random Forest
+the most accuracy. We used five ML calculations: Decision Trees, Random Forest, Linear Regression,
+Gradient boosting and KNN in our experiments.
 
 Random Forest Accuracy: The accuracy of the Random Forest classifier is 88.24 %, while that of
 SVM is 87.38%The accuracy of the Random Forest classifier is 88.24%, while that of SVM is 87.38 %,
